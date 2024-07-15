@@ -53,4 +53,7 @@ section {
     margin-left: 50px;
     font-size: 36px;
 }
+#home:hover {
+    text-decoration: none;
+}
 
