@@ -25,9 +25,13 @@ a:hover {
 }
 
 nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background-color: black;
     color: white;
-    height: 100px;
+    height: 75px;
+    font-size: 22px;
 }
 
 section {
@@ -37,5 +41,15 @@ section {
 #skills {
     background-color: black;
     color: white;
+}
+
+#main-links {
+    display: flex;
+    gap: 25px;
+    margin-right: 20px;
+}
+
+#home {
+    margin-left: 20px;
 }
 
