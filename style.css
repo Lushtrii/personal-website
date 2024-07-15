@@ -68,6 +68,11 @@ section {
     width: 50%;
 }
 
+#intro-heading {
+    font-size: 36px;
+    font-weight: bold;
+}
 #intro-text {
-    font-size: 28px;
+    margin-top: 20px;
+    font-size: 20px;
 }
