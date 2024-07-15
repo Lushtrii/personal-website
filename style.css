@@ -27,9 +27,15 @@ a:hover {
 nav {
     background-color: black;
     color: white;
+    height: 100px;
+}
+
+section {
+    height: 400px;
 }
 
 #skills {
     background-color: black;
     color: white;
 }
+
