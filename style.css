@@ -36,6 +36,7 @@ nav {
 
 section {
     height: 400px;
+    padding: 20px;
 }
 
 #skills {
@@ -57,3 +58,16 @@ section {
     text-decoration: none;
 }
 
+#about {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#left-about {
+    margin-left: 30px;
+    width: 50%;
+}
+
+#intro-text {
+    font-size: 28px;
+}
