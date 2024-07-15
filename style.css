@@ -24,3 +24,12 @@ a:hover {
     text-decoration: underline;
 }
 
+nav {
+    background-color: black;
+    color: white;
+}
+
+#skills {
+    background-color: black;
+    color: white;
+}
