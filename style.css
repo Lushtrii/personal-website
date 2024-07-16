@@ -76,3 +76,34 @@ section {
     margin-top: 20px;
     font-size: 20px;
 }
+
+#skills {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    height: 600px;
+}
+
+#skill-heading {
+    font-size: 36px;
+    margin-left: 30px;
+    align-self: center;
+}
+
+#skill-overview {
+    width: 50%;
+    font-size: 20px;
+    align-self: center;
+    text-align: center;
+}
+
+#skills > *{
+    margin-left: 30px;
+}
+
+#skill-bullets {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    font-size: 32px;
+}
